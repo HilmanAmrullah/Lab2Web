@@ -14,6 +14,7 @@ Matkul  : Pemrograman Web 1
 buka browser untuk melihatnya
 ![Alt text](<gambar/css dasar.png>)<br>
 
+---
 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ![Alt text](<gambar/codingan css 1.png>)<br>
@@ -22,6 +23,7 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 hasilnya.
 ![Alt text](<gambar/css dasar 1.png>)<br>
 
+---
 3. Menambahkan Inline CSS<br>
 Kemudian tambahkan deklarasi inline CSS pada tag (p) seperti berikut.
 ![Alt text](<gambar/codingan css 2.png>)<br>
@@ -29,6 +31,7 @@ Kemudian tambahkan deklarasi inline CSS pada tag (p) seperti berikut.
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 ![Alt text](<gambar/css dasar 2.png>)<br>
 
+---
 4. Membuat CSS Eksternal<br>
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ![Alt text](<gambar/codingan css 3.png>)<br>
@@ -39,6 +42,7 @@ Kemudian tambahkan tag (link) untuk merujuk file css yang sudah dibuat pada bagi
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ![Alt text](<gambar/css dasar 3.png>)<br>
 
+---
 5. Menambahkan CSS Selector<br>
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
 style_eksternal.css, tambahkan kode berikut.
@@ -46,3 +50,5 @@ style_eksternal.css, tambahkan kode berikut.
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 ![Alt text](<gambar/css dasar 4.png>)
+
+---
