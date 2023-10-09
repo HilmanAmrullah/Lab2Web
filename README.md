@@ -11,7 +11,7 @@ Matkul  : Pemrograman Web 1
 ![Alt text](<gambar/codingan css.png>)
 <br>
 
-### buka browser untuk melihatnya
+buka browser untuk melihatnya
 ![Alt text](<gambar/css dasar.png>)<br>
 
 2. Mendeklarasikan CSS Internal
@@ -20,4 +20,11 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
-![Alt text](<gambar/css dasar 1.png>)
+![Alt text](<gambar/css dasar 1.png>)<br>
+
+3. Menambahkan Inline CSS
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+![Alt text](<gambar/codingan css 2.png>)<br>
+
+Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+![Alt text](<gambar/css dasar 2.png>)
